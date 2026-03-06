@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Navadeep Maganti
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+@+NIT+Andhra+Pradesh;Full+Stack+Developer;AI+%26+Algorithms+Enthusiast;Passionate+About+Building+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+@+NIT+AP;Full+Stack+Developer;AI+%26+Algorithms+Enthusiast;Passionate+About+Building+Software" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech Computer Science — NIT AP**
+🎓 **B.Tech Computer Science — NIT Andhra Pradesh**
 
 I'm passionate about **building scalable software systems**, solving algorithmic problems, and exploring **AI and full-stack development**.
 

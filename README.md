@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Navadeep Maganti
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+NIT+Andhra+Pradesh;Full+Stack+Developer;AI+%26+Algorithms+Enthusiast;Building+Scalable+Software+Systems;Competitive+Programmer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+@+NIT+Andhra+Pradesh;Full+Stack+Developer;AI+%26+Algorithms+Enthusiast;Competitive+Programmer;Building+Scalable+Software+Systems"/>
 
-<img src="https://komarev.com/ghpvc/?username=Navadeep-maganti&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Navadeep-maganti&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -12,43 +12,72 @@
 
 # 🚀 About Me
 
-🎓 **B.Tech Computer Science – NIT Andhra Pradesh**
-💻 Passionate about **Full-Stack Development, AI, and Algorithms**
+🎓 **Computer Science Undergraduate — NIT AP**
 
-* 💼 **Full-Stack Developer Intern — TechnoForest Innovations**
-* 🌐 **Web Developer — Vulcanzy Cultural Fest Website**
-* 🧠 **Executive Member — Coding Club NIT Andhra Pradesh**
-* 🏀 Represented **NIT AP in Inter-NIT Basketball**
+💻 Interested in
+• Artificial Intelligence
+• Full Stack Development
+• Algorithms & Data Structures
+
+⚡ Currently:
+
+* 💼 **Full-Stack Developer Intern – TechnoForest Innovations**
+* 🌐 **Web Developer – Vulcanzy Fest Website**
+* 🧠 **Executive Member – Coding Club NIT AP**
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,django,git,github,vscode,linux&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,django,nodejs,git,github,vscode,linux&perline=7"/>
 
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### ♟ Chess AI – Monte Carlo Tree Search
+### ♟ Chess AI (Monte Carlo Tree Search)
 
-An AI chess engine implementing **Monte Carlo Tree Search** for intelligent move prediction and gameplay strategy.
+AI chess engine implementing **Monte Carlo Tree Search** for intelligent move evaluation.
+
+---
 
 ### 🎓 University Placement Portal
 
-Centralized platform to **manage student applications and recruitment processes** efficiently.
+Centralized platform for **managing recruitment and student applications**.
 
-### 📚 Library Book Reservation App
+Features:
 
-A **Flutter + Django system** allowing students to check book availability and reserve books.
+* student application tracking
+* recruiter dashboards
+* centralized placement management
+
+---
+
+### 📚 Library Reservation System
+
+Mobile system allowing students to:
+
+* check book availability
+* reserve books
+* manage reservations
+
+Tech: **Flutter + Django**
+
+---
 
 ### 🧠 Automated Timetable Generator
 
-A smart scheduling system designed for **Smart India Hackathon** to automatically generate university timetables.
+Smart scheduling system created for **Smart India Hackathon** concept.
+
+Handles:
+
+* faculty availability
+* classroom constraints
+* dynamic scheduling
 
 ---
 
@@ -85,8 +114,10 @@ A smart scheduling system designed for **Smart India Hackathon** to automaticall
 # 🏅 Achievements
 
 🏆 **JEE Main AIR 14707**
-📈 **100+ Problems Solved on LeetCode**
-🎓 **97% in 12th Board Exams**
+
+📈 **100+ Problems solved on LeetCode**
+
+🎓 **97% in Class 12 Board Exams**
 
 ---
 
@@ -100,6 +131,10 @@ A smart scheduling system designed for **Smart India Hackathon** to automaticall
 
 <a href="https://www.linkedin.com/in/navadeep-maganti-735250349/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/navadeep.3010/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 </p>

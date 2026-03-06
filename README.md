@@ -1,148 +1,79 @@
 <div align="center">
 
-# 👋 Hi, I'm Navadeep Maganti
+# Hi 👋 I'm Navadeep Maganti
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+@+NIT+Andhra+Pradesh;Full+Stack+Developer;AI+%26+Algorithms+Enthusiast;Competitive+Programmer;Building+Scalable+Software+Systems"/>
-
-<img src="https://komarev.com/ghpvc/?username=Navadeep-maganti&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+@+NIT+Andhra+Pradesh;Full+Stack+Developer;AI+%26+Algorithms+Enthusiast;Passionate+About+Building+Software" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 **Computer Science Undergraduate — NIT AP**
+🎓 **B.Tech Computer Science — NIT Andhra Pradesh**
 
-💻 Interested in
-• Artificial Intelligence
-• Full Stack Development
-• Algorithms & Data Structures
+I'm passionate about **building scalable software systems**, solving algorithmic problems, and exploring **AI and full-stack development**.
 
-⚡ Currently:
-
-* 💼 **Full-Stack Developer Intern – TechnoForest Innovations**
-* 🌐 **Web Developer – Vulcanzy Fest Website**
-* 🧠 **Executive Member – Coding Club NIT AP**
+Previously worked as a **Full-Stack Developer Intern at TechnoForest Innovations**, contributing to responsive web interfaces and backend functionality.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,django,nodejs,git,github,vscode,linux&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,django,nodejs,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### ♟ Chess AI (Monte Carlo Tree Search)
+### ♟ Chess AI
 
-AI chess engine implementing **Monte Carlo Tree Search** for intelligent move evaluation.
-
----
+Exploring **Monte Carlo Tree Search** to build an intelligent chess engine.
 
 ### 🎓 University Placement Portal
 
-Centralized platform for **managing recruitment and student applications**.
+A centralized platform to manage **student placement applications and recruitment processes**.
 
-Features:
+### 📚 Library Book Reservation System
 
-* student application tracking
-* recruiter dashboards
-* centralized placement management
-
----
-
-### 📚 Library Reservation System
-
-Mobile system allowing students to:
-
-* check book availability
-* reserve books
-* manage reservations
-
-Tech: **Flutter + Django**
-
----
+A mobile system allowing students to **check availability and reserve books easily**.
 
 ### 🧠 Automated Timetable Generator
 
-Smart scheduling system created for **Smart India Hackathon** concept.
-
-Handles:
-
-* faculty availability
-* classroom constraints
-* dynamic scheduling
+A concept system designed during **Smart India Hackathon** to automatically generate university timetables.
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Navadeep-maganti&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeep-maganti&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navadeep-maganti&theme=tokyo-night"/>
-
----
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Navadeep-maganti&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Navadeep-maganti/Navadeep-maganti/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 🏅 Achievements
-
-🏆 **JEE Main AIR 14707**
-
-📈 **100+ Problems solved on LeetCode**
-
-🎓 **97% in Class 12 Board Exams**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<a href="mailto:424151@student.nitandhra.ac.in">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 
 <a href="https://github.com/Navadeep-maganti">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/navadeep-maganti-735250349/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://www.instagram.com/navadeep.3010/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-⭐ **Always Learning • Always Building • Always Improving**
+⭐ **Always learning • Always building**
 
 </div>

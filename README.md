@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech Computer Science — NIT Andhra Pradesh**
+🎓 **B.Tech Computer Science — NIT AP**
 
 I'm passionate about **building scalable software systems**, solving algorithmic problems, and exploring **AI and full-stack development**.
 
